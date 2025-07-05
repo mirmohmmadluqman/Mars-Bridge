@@ -1,0 +1,20 @@
+    @dev
+
+    Conform weather it's sturcute is:
+    ---------------------------------
+
+MARS-BRIDGE/
+├── contracts/
+│   ├── Bridge.sol
+│   └── WrappedToken.sol
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+├── images/
+│   ├── logo.png
+│   ├── banner.png
+│   └── sideBackgroundImage.webm (This will be at in midle at right side) 
+├── relayer/
+│   └── watcher.js
+├── README.md
